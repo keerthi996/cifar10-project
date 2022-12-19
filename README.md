@@ -1,2 +1,2 @@
-# first project
+# cifar10 project
  
